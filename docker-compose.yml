@@ -1,0 +1,13 @@
+services:
+  db:
+    image: mysql:8.4
+    restart: always
+    environment:
+      MYSQL_USER: 'kaique'
+      MYSQL_PASSWORD: 'kaka'
+      MYSQL_DATABASE: 'DailyDiet'
+      MYSQL_ROOT_PASSWORD: 'kaka'
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./mysql-data:/var/lib/mysql
