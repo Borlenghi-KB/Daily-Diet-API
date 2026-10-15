@@ -206,11 +206,7 @@ This project is intended for learning. Before using it beyond a local exercise:
 
 This project was created as part of a challenge proposed by **[Rocketseat](https://www.rocketseat.com.br/)**. Thank you for providing the challenge and learning opportunity.
 
-## About me
-
+------
 <p align="center">
-  <!-- Add your profile photo to assets/profile-photo.png -->
-  <img src="assets/profile-photo.png" alt="Kaique's profile photo" width="140" height="140">
-  <br>
-  <sub>Learning by building, one project at a time.</sub>
+  <sub >Learning by building, one project at a time.</sub>
 </p>
